@@ -1,1 +1,11 @@
 class code
+
+clr = common language runtime. JIT comp
+CLR converts to any native environment with the right compiler
+
+Namespace: class of classes basically - related ones
+assembly: executable or dll
+compiler may build one or several assembly
+
+
+in vs code a solution can include many projects
