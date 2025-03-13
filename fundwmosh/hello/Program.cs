@@ -6,7 +6,10 @@ namespace HelloWorld
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello");
+            byte number = 243;
+            Console.WriteLine(number);
+            float totalPrice = 20.95f;
+            Console.WriteLine($"I have to make a {totalPrice}");
         }
     }
 }
