@@ -6,6 +6,7 @@ namespace HelloWorld
     {
         static void Main(string[] args)
         {
+<<<<<<< HEAD
             float whoa = 3.22444f;
             decimal whoap = 3.22454m;
             string whoops = "borp";
@@ -23,6 +24,12 @@ namespace HelloWorld
             Console.WriteLine("This is a float: {0}, and this is an int: {1}", c, d);
 
         
+=======
+            byte number = 243;
+            Console.WriteLine(number);
+            float totalPrice = 20.95f;
+            Console.WriteLine($"I have to make a {totalPrice}");
+>>>>>>> 55243e49a8f4465fc0e8547ab4628e8ee2019fb6
         }
     }
 }
