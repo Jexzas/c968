@@ -21,7 +21,6 @@ namespace HelloWorld
             float c = 128.0f;
             int d = (int)c;
             Console.WriteLine("This is a float: {0}, and this is an int: {1}", c, d);
-
         
         }
     }
