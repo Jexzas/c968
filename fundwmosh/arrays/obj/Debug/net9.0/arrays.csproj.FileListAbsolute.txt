@@ -1,0 +1,15 @@
+E:\Programming\C968\fundwmosh\arrays\obj\Debug\net9.0\arrays.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming\C968\fundwmosh\arrays\obj\Debug\net9.0\arrays.AssemblyInfoInputs.cache
+E:\Programming\C968\fundwmosh\arrays\obj\Debug\net9.0\arrays.AssemblyInfo.cs
+E:\Programming\C968\fundwmosh\arrays\obj\Debug\net9.0\arrays.csproj.CoreCompileInputs.cache
+E:\Programming\C968\fundwmosh\arrays\obj\Debug\net9.0\arrays.sourcelink.json
+E:\Programming\C968\fundwmosh\arrays\bin\Debug\net9.0\arrays.exe
+E:\Programming\C968\fundwmosh\arrays\bin\Debug\net9.0\arrays.deps.json
+E:\Programming\C968\fundwmosh\arrays\bin\Debug\net9.0\arrays.runtimeconfig.json
+E:\Programming\C968\fundwmosh\arrays\bin\Debug\net9.0\arrays.dll
+E:\Programming\C968\fundwmosh\arrays\bin\Debug\net9.0\arrays.pdb
+E:\Programming\C968\fundwmosh\arrays\obj\Debug\net9.0\arrays.dll
+E:\Programming\C968\fundwmosh\arrays\obj\Debug\net9.0\refint\arrays.dll
+E:\Programming\C968\fundwmosh\arrays\obj\Debug\net9.0\arrays.pdb
+E:\Programming\C968\fundwmosh\arrays\obj\Debug\net9.0\arrays.genruntimeconfig.cache
+E:\Programming\C968\fundwmosh\arrays\obj\Debug\net9.0\ref\arrays.dll
