@@ -1,0 +1,15 @@
+E:\Programming\c968\fundwmosh\control\bin\Debug\net9.0\control.exe
+E:\Programming\c968\fundwmosh\control\bin\Debug\net9.0\control.deps.json
+E:\Programming\c968\fundwmosh\control\bin\Debug\net9.0\control.runtimeconfig.json
+E:\Programming\c968\fundwmosh\control\bin\Debug\net9.0\control.dll
+E:\Programming\c968\fundwmosh\control\bin\Debug\net9.0\control.pdb
+E:\Programming\c968\fundwmosh\control\obj\Debug\net9.0\control.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming\c968\fundwmosh\control\obj\Debug\net9.0\control.AssemblyInfoInputs.cache
+E:\Programming\c968\fundwmosh\control\obj\Debug\net9.0\control.AssemblyInfo.cs
+E:\Programming\c968\fundwmosh\control\obj\Debug\net9.0\control.csproj.CoreCompileInputs.cache
+E:\Programming\c968\fundwmosh\control\obj\Debug\net9.0\control.sourcelink.json
+E:\Programming\c968\fundwmosh\control\obj\Debug\net9.0\control.dll
+E:\Programming\c968\fundwmosh\control\obj\Debug\net9.0\refint\control.dll
+E:\Programming\c968\fundwmosh\control\obj\Debug\net9.0\control.pdb
+E:\Programming\c968\fundwmosh\control\obj\Debug\net9.0\control.genruntimeconfig.cache
+E:\Programming\c968\fundwmosh\control\obj\Debug\net9.0\ref\control.dll
