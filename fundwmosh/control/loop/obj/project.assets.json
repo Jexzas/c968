@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Programming\\c968\\fundwmosh\\control\\control.csproj",
-      "projectName": "control",
-      "projectPath": "E:\\Programming\\c968\\fundwmosh\\control\\control.csproj",
+      "projectUniqueName": "E:\\Programming\\c968\\fundwmosh\\control\\loop\\loop.csproj",
+      "projectName": "loop",
+      "projectPath": "E:\\Programming\\c968\\fundwmosh\\control\\loop\\loop.csproj",
       "packagesPath": "C:\\Users\\jdrma\\.nuget\\packages\\",
-      "outputPath": "E:\\Programming\\c968\\fundwmosh\\control\\obj\\",
+      "outputPath": "E:\\Programming\\c968\\fundwmosh\\control\\loop\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

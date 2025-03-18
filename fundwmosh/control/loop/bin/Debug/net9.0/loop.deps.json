@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v9.0": {
-      "control/1.0.0": {
+      "loop/1.0.0": {
         "runtime": {
-          "control.dll": {}
+          "loop.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "control/1.0.0": {
+    "loop/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

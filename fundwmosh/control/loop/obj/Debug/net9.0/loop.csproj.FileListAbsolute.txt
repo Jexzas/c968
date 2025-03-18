@@ -1,0 +1,15 @@
+E:\Programming\c968\fundwmosh\control\loop\obj\Debug\net9.0\loop.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming\c968\fundwmosh\control\loop\obj\Debug\net9.0\loop.AssemblyInfoInputs.cache
+E:\Programming\c968\fundwmosh\control\loop\obj\Debug\net9.0\loop.AssemblyInfo.cs
+E:\Programming\c968\fundwmosh\control\loop\obj\Debug\net9.0\loop.csproj.CoreCompileInputs.cache
+E:\Programming\c968\fundwmosh\control\loop\obj\Debug\net9.0\loop.sourcelink.json
+E:\Programming\c968\fundwmosh\control\loop\bin\Debug\net9.0\loop.exe
+E:\Programming\c968\fundwmosh\control\loop\bin\Debug\net9.0\loop.deps.json
+E:\Programming\c968\fundwmosh\control\loop\bin\Debug\net9.0\loop.runtimeconfig.json
+E:\Programming\c968\fundwmosh\control\loop\bin\Debug\net9.0\loop.dll
+E:\Programming\c968\fundwmosh\control\loop\bin\Debug\net9.0\loop.pdb
+E:\Programming\c968\fundwmosh\control\loop\obj\Debug\net9.0\loop.dll
+E:\Programming\c968\fundwmosh\control\loop\obj\Debug\net9.0\refint\loop.dll
+E:\Programming\c968\fundwmosh\control\loop\obj\Debug\net9.0\loop.pdb
+E:\Programming\c968\fundwmosh\control\loop\obj\Debug\net9.0\loop.genruntimeconfig.cache
+E:\Programming\c968\fundwmosh\control\loop\obj\Debug\net9.0\ref\loop.dll
