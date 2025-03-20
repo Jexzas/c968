@@ -39,7 +39,8 @@ namespace Loop {
                     letters[i] = (char)random.Next(97, 122);
                 }
             }
-            System.Console.WriteLine(String.Join("", letters));
+            var password = new string(letters);
+            System.Console.WriteLine(password);
         }
     }
 }

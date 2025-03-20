@@ -1,0 +1,15 @@
+E:\Programming\c968\fundwmosh\control\5ercise\bin\Debug\net9.0\5ercise.exe
+E:\Programming\c968\fundwmosh\control\5ercise\bin\Debug\net9.0\5ercise.deps.json
+E:\Programming\c968\fundwmosh\control\5ercise\bin\Debug\net9.0\5ercise.runtimeconfig.json
+E:\Programming\c968\fundwmosh\control\5ercise\bin\Debug\net9.0\5ercise.dll
+E:\Programming\c968\fundwmosh\control\5ercise\bin\Debug\net9.0\5ercise.pdb
+E:\Programming\c968\fundwmosh\control\5ercise\obj\Debug\net9.0\5ercise.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming\c968\fundwmosh\control\5ercise\obj\Debug\net9.0\5ercise.AssemblyInfoInputs.cache
+E:\Programming\c968\fundwmosh\control\5ercise\obj\Debug\net9.0\5ercise.AssemblyInfo.cs
+E:\Programming\c968\fundwmosh\control\5ercise\obj\Debug\net9.0\5ercise.csproj.CoreCompileInputs.cache
+E:\Programming\c968\fundwmosh\control\5ercise\obj\Debug\net9.0\5ercise.sourcelink.json
+E:\Programming\c968\fundwmosh\control\5ercise\obj\Debug\net9.0\5ercise.dll
+E:\Programming\c968\fundwmosh\control\5ercise\obj\Debug\net9.0\refint\5ercise.dll
+E:\Programming\c968\fundwmosh\control\5ercise\obj\Debug\net9.0\5ercise.pdb
+E:\Programming\c968\fundwmosh\control\5ercise\obj\Debug\net9.0\5ercise.genruntimeconfig.cache
+E:\Programming\c968\fundwmosh\control\5ercise\obj\Debug\net9.0\ref\5ercise.dll
