@@ -3,7 +3,6 @@
 namespace arrays {
     public class Arrayed { 
         public static void Main() {
-            /*
             // rectangular
             var matrix = new int[3,5];
             // jagged
@@ -82,7 +81,6 @@ namespace arrays {
             System.Console.WriteLine(
                 $"The numbers you entered are: {String.Join(", ", usNum)}"
             );  
-            */
 
             // Exercise 4
             // not doing this one because it's the same solution as 3

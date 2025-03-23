@@ -1,0 +1,15 @@
+E:\Programming\c968\fundwmosh\text\bin\Debug\net9.0\text.exe
+E:\Programming\c968\fundwmosh\text\bin\Debug\net9.0\text.deps.json
+E:\Programming\c968\fundwmosh\text\bin\Debug\net9.0\text.runtimeconfig.json
+E:\Programming\c968\fundwmosh\text\bin\Debug\net9.0\text.dll
+E:\Programming\c968\fundwmosh\text\bin\Debug\net9.0\text.pdb
+E:\Programming\c968\fundwmosh\text\obj\Debug\net9.0\text.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming\c968\fundwmosh\text\obj\Debug\net9.0\text.AssemblyInfoInputs.cache
+E:\Programming\c968\fundwmosh\text\obj\Debug\net9.0\text.AssemblyInfo.cs
+E:\Programming\c968\fundwmosh\text\obj\Debug\net9.0\text.csproj.CoreCompileInputs.cache
+E:\Programming\c968\fundwmosh\text\obj\Debug\net9.0\text.sourcelink.json
+E:\Programming\c968\fundwmosh\text\obj\Debug\net9.0\text.dll
+E:\Programming\c968\fundwmosh\text\obj\Debug\net9.0\refint\text.dll
+E:\Programming\c968\fundwmosh\text\obj\Debug\net9.0\text.pdb
+E:\Programming\c968\fundwmosh\text\obj\Debug\net9.0\text.genruntimeconfig.cache
+E:\Programming\c968\fundwmosh\text\obj\Debug\net9.0\ref\text.dll

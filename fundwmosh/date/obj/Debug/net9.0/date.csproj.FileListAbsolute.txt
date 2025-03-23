@@ -1,0 +1,15 @@
+E:\Programming\c968\fundwmosh\date\bin\Debug\net9.0\date.exe
+E:\Programming\c968\fundwmosh\date\bin\Debug\net9.0\date.deps.json
+E:\Programming\c968\fundwmosh\date\bin\Debug\net9.0\date.runtimeconfig.json
+E:\Programming\c968\fundwmosh\date\bin\Debug\net9.0\date.dll
+E:\Programming\c968\fundwmosh\date\bin\Debug\net9.0\date.pdb
+E:\Programming\c968\fundwmosh\date\obj\Debug\net9.0\date.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming\c968\fundwmosh\date\obj\Debug\net9.0\date.AssemblyInfoInputs.cache
+E:\Programming\c968\fundwmosh\date\obj\Debug\net9.0\date.AssemblyInfo.cs
+E:\Programming\c968\fundwmosh\date\obj\Debug\net9.0\date.csproj.CoreCompileInputs.cache
+E:\Programming\c968\fundwmosh\date\obj\Debug\net9.0\date.sourcelink.json
+E:\Programming\c968\fundwmosh\date\obj\Debug\net9.0\date.dll
+E:\Programming\c968\fundwmosh\date\obj\Debug\net9.0\refint\date.dll
+E:\Programming\c968\fundwmosh\date\obj\Debug\net9.0\date.pdb
+E:\Programming\c968\fundwmosh\date\obj\Debug\net9.0\date.genruntimeconfig.cache
+E:\Programming\c968\fundwmosh\date\obj\Debug\net9.0\ref\date.dll
