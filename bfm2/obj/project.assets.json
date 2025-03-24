@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Users\\jdrma\\Documents\\c968\\bfm2\\bfm2.csproj",
+      "projectUniqueName": "E:\\Programming\\c968\\bfm2\\bfm2.csproj",
       "projectName": "bfm2",
-      "projectPath": "D:\\Users\\jdrma\\Documents\\c968\\bfm2\\bfm2.csproj",
+      "projectPath": "E:\\Programming\\c968\\bfm2\\bfm2.csproj",
       "packagesPath": "C:\\Users\\jdrma\\.nuget\\packages\\",
-      "outputPath": "D:\\Users\\jdrma\\Documents\\c968\\bfm2\\obj\\",
+      "outputPath": "E:\\Programming\\c968\\bfm2\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -32,8 +32,7 @@
         "net9.0-windows"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "https://api.nuget.org/v3/index.json": {}
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {}
       },
       "frameworks": {
         "net9.0-windows7.0": {

@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Programming\\c968\\bfm2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{01832D0F-9302-FF47-861D-9844353152CA}|bfm2.csproj|e:\\programming\\c968\\bfm2\\main.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01832D0F-9302-FF47-861D-9844353152CA}|bfm2.csproj|solutionrelative:main.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01832D0F-9302-FF47-861D-9844353152CA}|bfm2.csproj|E:\\Programming\\c968\\bfm2\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{01832D0F-9302-FF47-861D-9844353152CA}|bfm2.csproj|solutionrelative:main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Main.Designer.cs",
+              "DocumentMoniker": "E:\\Programming\\c968\\bfm2\\Main.Designer.cs",
+              "RelativeDocumentMoniker": "Main.Designer.cs",
+              "ToolTip": "E:\\Programming\\c968\\bfm2\\Main.Designer.cs",
+              "RelativeToolTip": "Main.Designer.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAAAEQAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T14:39:52.328Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Main.cs [Design]",
+              "DocumentMoniker": "E:\\Programming\\c968\\bfm2\\Main.cs",
+              "RelativeDocumentMoniker": "Main.cs",
+              "ToolTip": "E:\\Programming\\c968\\bfm2\\Main.cs [Design]",
+              "RelativeToolTip": "Main.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T14:41:53.824Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

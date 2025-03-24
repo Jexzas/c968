@@ -1,0 +1,11 @@
+E:\Programming\c968\bfm2\obj\Debug\net9.0-windows\bfm2.AddPart.resources
+E:\Programming\c968\bfm2\obj\Debug\net9.0-windows\bfm2.AddProduct.resources
+E:\Programming\c968\bfm2\obj\Debug\net9.0-windows\bfm2.Main.resources
+E:\Programming\c968\bfm2\obj\Debug\net9.0-windows\bfm2.ModifyPart.resources
+E:\Programming\c968\bfm2\obj\Debug\net9.0-windows\bfm2.ModifyProduct.resources
+E:\Programming\c968\bfm2\obj\Debug\net9.0-windows\bfm2.csproj.GenerateResource.cache
+E:\Programming\c968\bfm2\obj\Debug\net9.0-windows\bfm2.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming\c968\bfm2\obj\Debug\net9.0-windows\bfm2.AssemblyInfoInputs.cache
+E:\Programming\c968\bfm2\obj\Debug\net9.0-windows\bfm2.AssemblyInfo.cs
+E:\Programming\c968\bfm2\obj\Debug\net9.0-windows\bfm2.csproj.CoreCompileInputs.cache
+E:\Programming\c968\bfm2\obj\Debug\net9.0-windows\bfm2.sourcelink.json
