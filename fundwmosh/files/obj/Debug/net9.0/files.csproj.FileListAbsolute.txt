@@ -1,0 +1,15 @@
+D:\Users\jdrma\Documents\c968\fundwmosh\files\obj\Debug\net9.0\files.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\jdrma\Documents\c968\fundwmosh\files\obj\Debug\net9.0\files.AssemblyInfoInputs.cache
+D:\Users\jdrma\Documents\c968\fundwmosh\files\obj\Debug\net9.0\files.AssemblyInfo.cs
+D:\Users\jdrma\Documents\c968\fundwmosh\files\obj\Debug\net9.0\files.csproj.CoreCompileInputs.cache
+D:\Users\jdrma\Documents\c968\fundwmosh\files\obj\Debug\net9.0\files.sourcelink.json
+D:\Users\jdrma\Documents\c968\fundwmosh\files\bin\Debug\net9.0\files.exe
+D:\Users\jdrma\Documents\c968\fundwmosh\files\bin\Debug\net9.0\files.deps.json
+D:\Users\jdrma\Documents\c968\fundwmosh\files\bin\Debug\net9.0\files.runtimeconfig.json
+D:\Users\jdrma\Documents\c968\fundwmosh\files\bin\Debug\net9.0\files.dll
+D:\Users\jdrma\Documents\c968\fundwmosh\files\bin\Debug\net9.0\files.pdb
+D:\Users\jdrma\Documents\c968\fundwmosh\files\obj\Debug\net9.0\files.dll
+D:\Users\jdrma\Documents\c968\fundwmosh\files\obj\Debug\net9.0\refint\files.dll
+D:\Users\jdrma\Documents\c968\fundwmosh\files\obj\Debug\net9.0\files.pdb
+D:\Users\jdrma\Documents\c968\fundwmosh\files\obj\Debug\net9.0\files.genruntimeconfig.cache
+D:\Users\jdrma\Documents\c968\fundwmosh\files\obj\Debug\net9.0\ref\files.dll
