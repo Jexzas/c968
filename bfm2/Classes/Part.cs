@@ -4,20 +4,20 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace bfm2.Classes
+namespace bfm2
 {
     public class Part
     {
-        public int PartID;
-        public string Name;
-        public decimal Price;
-        public int InStock;
-        public int Min;
-        public int Max;
+        public int PartID { get; set; }
+        public string PartName { get; set; }
+        public decimal Price { get; set; }
+        public int InStock { get; set; }
+        public int Min { get; set; }
+        public int Max { get; set; }
         public Part(int PartID, string Name, decimal Price, int InStock, int Min, int Max)
         {
             this.PartID = PartID;
-            this.Name = Name;
+            this.PartName = Name;
             this.Price = Price;
             this.InStock = InStock;
             this.Min = Min;

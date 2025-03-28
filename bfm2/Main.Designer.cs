@@ -28,13 +28,16 @@ partial class Main
     /// </summary>
     private void InitializeComponent()
     {
+        components = new System.ComponentModel.Container();
         label1 = new Label();
         button1 = new Button();
         textBox1 = new TextBox();
         label2 = new Label();
         label3 = new Label();
         dataGridView1 = new DataGridView();
+        outsourcedBindingSource = new BindingSource(components);
         dataGridView2 = new DataGridView();
+        productBindingSource = new BindingSource(components);
         button2 = new Button();
         button3 = new Button();
         button4 = new Button();
@@ -43,26 +46,29 @@ partial class Main
         button7 = new Button();
         textBox2 = new TextBox();
         button8 = new Button();
+        productBindingSource1 = new BindingSource(components);
         ((System.ComponentModel.ISupportInitialize)dataGridView1).BeginInit();
+        ((System.ComponentModel.ISupportInitialize)outsourcedBindingSource).BeginInit();
         ((System.ComponentModel.ISupportInitialize)dataGridView2).BeginInit();
+        ((System.ComponentModel.ISupportInitialize)productBindingSource).BeginInit();
+        ((System.ComponentModel.ISupportInitialize)productBindingSource1).BeginInit();
         SuspendLayout();
         // 
         // label1
         // 
         label1.AutoSize = true;
         label1.Font = new Font("Segoe UI", 14.25F, FontStyle.Regular, GraphicsUnit.Point, 0);
-        label1.Location = new Point(14, 12);
+        label1.Location = new Point(12, 9);
         label1.Name = "label1";
-        label1.Size = new Size(348, 32);
+        label1.Size = new Size(271, 25);
         label1.TabIndex = 0;
         label1.Text = "Inventory Management System";
         // 
         // button1
         // 
-        button1.Location = new Point(310, 91);
-        button1.Margin = new Padding(3, 4, 3, 4);
+        button1.Location = new Point(330, 78);
         button1.Name = "button1";
-        button1.Size = new Size(86, 31);
+        button1.Size = new Size(75, 23);
         button1.TabIndex = 1;
         button1.Text = "Search";
         button1.UseVisualStyleBackColor = true;
@@ -70,10 +76,9 @@ partial class Main
         // 
         // textBox1
         // 
-        textBox1.Location = new Point(424, 92);
-        textBox1.Margin = new Padding(3, 4, 3, 4);
+        textBox1.Location = new Point(432, 78);
         textBox1.Name = "textBox1";
-        textBox1.Size = new Size(268, 27);
+        textBox1.Size = new Size(235, 23);
         textBox1.TabIndex = 2;
         textBox1.TextChanged += textBox1_TextChanged;
         // 
@@ -81,9 +86,9 @@ partial class Main
         // 
         label2.AutoSize = true;
         label2.Font = new Font("Segoe UI", 12F, FontStyle.Regular, GraphicsUnit.Point, 0);
-        label2.Location = new Point(42, 152);
+        label2.Location = new Point(37, 114);
         label2.Name = "label2";
-        label2.Size = new Size(54, 28);
+        label2.Size = new Size(44, 21);
         label2.TabIndex = 3;
         label2.Text = "Parts";
         // 
@@ -91,38 +96,43 @@ partial class Main
         // 
         label3.AutoSize = true;
         label3.Font = new Font("Segoe UI", 12F, FontStyle.Regular, GraphicsUnit.Point, 0);
-        label3.Location = new Point(729, 152);
+        label3.Location = new Point(726, 114);
         label3.Name = "label3";
-        label3.Size = new Size(89, 28);
+        label3.Size = new Size(71, 21);
         label3.TabIndex = 4;
         label3.Text = "Products";
         // 
         // dataGridView1
         // 
         dataGridView1.ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-        dataGridView1.Location = new Point(42, 208);
-        dataGridView1.Margin = new Padding(3, 4, 3, 4);
+        dataGridView1.Location = new Point(37, 156);
         dataGridView1.Name = "dataGridView1";
         dataGridView1.RowHeadersWidth = 51;
-        dataGridView1.Size = new Size(650, 428);
+        dataGridView1.Size = new Size(655, 321);
         dataGridView1.TabIndex = 5;
+        // 
+        // outsourcedBindingSource
+        // 
+        outsourcedBindingSource.DataSource = typeof(Outsourced);
         // 
         // dataGridView2
         // 
         dataGridView2.ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-        dataGridView2.Location = new Point(729, 208);
-        dataGridView2.Margin = new Padding(3, 4, 3, 4);
+        dataGridView2.Location = new Point(726, 156);
         dataGridView2.Name = "dataGridView2";
         dataGridView2.RowHeadersWidth = 51;
-        dataGridView2.Size = new Size(650, 428);
+        dataGridView2.Size = new Size(659, 321);
         dataGridView2.TabIndex = 6;
+        // 
+        // productBindingSource
+        // 
+        productBindingSource.DataSource = typeof(Product);
         // 
         // button2
         // 
-        button2.Location = new Point(422, 660);
-        button2.Margin = new Padding(3, 4, 3, 4);
+        button2.Location = new Point(414, 495);
         button2.Name = "button2";
-        button2.Size = new Size(86, 31);
+        button2.Size = new Size(75, 23);
         button2.TabIndex = 7;
         button2.Text = "Add";
         button2.UseVisualStyleBackColor = true;
@@ -130,10 +140,9 @@ partial class Main
         // 
         // button3
         // 
-        button3.Location = new Point(514, 660);
-        button3.Margin = new Padding(3, 4, 3, 4);
+        button3.Location = new Point(495, 495);
         button3.Name = "button3";
-        button3.Size = new Size(86, 31);
+        button3.Size = new Size(75, 23);
         button3.TabIndex = 8;
         button3.Text = "Modify";
         button3.UseVisualStyleBackColor = true;
@@ -141,10 +150,9 @@ partial class Main
         // 
         // button4
         // 
-        button4.Location = new Point(607, 660);
-        button4.Margin = new Padding(3, 4, 3, 4);
+        button4.Location = new Point(576, 495);
         button4.Name = "button4";
-        button4.Size = new Size(86, 31);
+        button4.Size = new Size(75, 23);
         button4.TabIndex = 9;
         button4.Text = "Delete";
         button4.UseVisualStyleBackColor = true;
@@ -152,10 +160,9 @@ partial class Main
         // 
         // button5
         // 
-        button5.Location = new Point(1294, 660);
-        button5.Margin = new Padding(3, 4, 3, 4);
+        button5.Location = new Point(1294, 495);
         button5.Name = "button5";
-        button5.Size = new Size(86, 31);
+        button5.Size = new Size(75, 23);
         button5.TabIndex = 12;
         button5.Text = "Delete";
         button5.UseVisualStyleBackColor = true;
@@ -163,10 +170,9 @@ partial class Main
         // 
         // button6
         // 
-        button6.Location = new Point(1201, 660);
-        button6.Margin = new Padding(3, 4, 3, 4);
+        button6.Location = new Point(1213, 495);
         button6.Name = "button6";
-        button6.Size = new Size(86, 31);
+        button6.Size = new Size(75, 23);
         button6.TabIndex = 11;
         button6.Text = "Modify";
         button6.UseVisualStyleBackColor = true;
@@ -174,10 +180,9 @@ partial class Main
         // 
         // button7
         // 
-        button7.Location = new Point(1109, 660);
-        button7.Margin = new Padding(3, 4, 3, 4);
+        button7.Location = new Point(1132, 495);
         button7.Name = "button7";
-        button7.Size = new Size(86, 31);
+        button7.Size = new Size(75, 23);
         button7.TabIndex = 10;
         button7.Text = "Add";
         button7.UseVisualStyleBackColor = true;
@@ -185,29 +190,31 @@ partial class Main
         // 
         // textBox2
         // 
-        textBox2.Location = new Point(1111, 92);
-        textBox2.Margin = new Padding(3, 4, 3, 4);
+        textBox2.Location = new Point(1150, 78);
         textBox2.Name = "textBox2";
-        textBox2.Size = new Size(268, 27);
+        textBox2.Size = new Size(235, 23);
         textBox2.TabIndex = 14;
         textBox2.TextChanged += textBox2_TextChanged;
         // 
         // button8
         // 
-        button8.Location = new Point(997, 91);
-        button8.Margin = new Padding(3, 4, 3, 4);
+        button8.Location = new Point(1051, 77);
         button8.Name = "button8";
-        button8.Size = new Size(86, 31);
+        button8.Size = new Size(75, 23);
         button8.TabIndex = 13;
         button8.Text = "Search";
         button8.UseVisualStyleBackColor = true;
         button8.Click += button8_Click;
         // 
+        // productBindingSource1
+        // 
+        productBindingSource1.DataSource = typeof(Product);
+        // 
         // Main
         // 
-        AutoScaleDimensions = new SizeF(8F, 20F);
+        AutoScaleDimensions = new SizeF(7F, 15F);
         AutoScaleMode = AutoScaleMode.Font;
-        ClientSize = new Size(1415, 788);
+        ClientSize = new Size(1425, 757);
         Controls.Add(textBox2);
         Controls.Add(button8);
         Controls.Add(button5);
@@ -223,13 +230,21 @@ partial class Main
         Controls.Add(textBox1);
         Controls.Add(button1);
         Controls.Add(label1);
-        Margin = new Padding(3, 4, 3, 4);
         Name = "Main";
-        Text = "Form1";
+        Text = "Main";
+        Load += Main_Shown;
         ((System.ComponentModel.ISupportInitialize)dataGridView1).EndInit();
+        ((System.ComponentModel.ISupportInitialize)outsourcedBindingSource).EndInit();
         ((System.ComponentModel.ISupportInitialize)dataGridView2).EndInit();
+        ((System.ComponentModel.ISupportInitialize)productBindingSource).EndInit();
+        ((System.ComponentModel.ISupportInitialize)productBindingSource1).EndInit();
         ResumeLayout(false);
         PerformLayout();
+    }
+
+    private void Main_Shown1(object sender, EventArgs e)
+    {
+        throw new NotImplementedException();
     }
 
     #endregion
@@ -249,4 +264,7 @@ partial class Main
     private Button button7;
     private TextBox textBox2;
     private Button button8;
+    private BindingSource productBindingSource;
+    private BindingSource outsourcedBindingSource;
+    private BindingSource productBindingSource1;
 }

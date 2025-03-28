@@ -5,17 +5,17 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace bfm2.Classes
+namespace bfm2
 {
     public class Product
     {
-        public BindingList<Part> AssociatedParts;
-        public int ProductID;
-        public string Name;
-        public decimal Price;
-        public int InStock;
-        public int Min;
-        public int Max;
+        public BindingList<Part> AssociatedParts { get; set; }
+        public int ProductID { get; set; }
+        public string Name { get; set; }
+        public decimal Price { get; set; }
+        public int InStock { get; set; }
+        public int Min { get; set; }
+        public int Max { get; set; }
 
         public Product(BindingList<Part> parts, int proid, string name, decimal price, int instock, int min, int max)
         {
@@ -28,19 +28,19 @@ namespace bfm2.Classes
             this.Max = max;
         }
 
-        public void addAssociatedPart(Part)
+        public void addAssociatedPart(Part part)
         {
 
         }
 
         public bool removeAssociatedPart(int id)
         {
-
+            return false;
         }
 
         public Part lookupAssociatedPart(int partID)
         {
-
+            return AssociatedParts[partID];
         }
     }
 }

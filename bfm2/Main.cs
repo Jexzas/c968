@@ -1,14 +1,31 @@
+using System.ComponentModel;
+using System.ComponentModel.DataAnnotations;
 using System.Security.Cryptography.X509Certificates;
 
 namespace bfm2;
 
 public partial class Main : Form
 {
+    public Inventory inventory = new Inventory();
+
+    public BindingList<Part> parts;
+    public BindingList<Product> products;
+
     public Main()
     {
         InitializeComponent();
-    }
 
+        this.parts = this.inventory.AllParts;
+        this.products = this.inventory.Products;
+    }
+    
+    private void Main_Shown(object sender, EventArgs e)
+    {
+        dataGridView1.AutoGenerateColumns = true;
+        dataGridView2.AutoGenerateColumns = true;
+        dataGridView1.DataSource = parts;
+        dataGridView2.DataSource = products;
+    }
     private void button1_Click(object sender, EventArgs e)
     {
         // functionality to display search results
@@ -67,4 +84,6 @@ public partial class Main : Form
     {
         // Delete a product
     }
+
+    
 }
