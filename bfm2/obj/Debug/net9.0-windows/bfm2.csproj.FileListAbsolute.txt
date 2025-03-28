@@ -30,3 +30,13 @@ D:\Users\jdrma\Documents\c968\bfm2\obj\Debug\net9.0-windows\refint\bfm2.dll
 D:\Users\jdrma\Documents\c968\bfm2\obj\Debug\net9.0-windows\bfm2.pdb
 D:\Users\jdrma\Documents\c968\bfm2\obj\Debug\net9.0-windows\bfm2.genruntimeconfig.cache
 D:\Users\jdrma\Documents\c968\bfm2\obj\Debug\net9.0-windows\ref\bfm2.dll
+E:\Programming\c968\bfm2\bin\Debug\net9.0-windows\bfm2.exe
+E:\Programming\c968\bfm2\bin\Debug\net9.0-windows\bfm2.deps.json
+E:\Programming\c968\bfm2\bin\Debug\net9.0-windows\bfm2.runtimeconfig.json
+E:\Programming\c968\bfm2\bin\Debug\net9.0-windows\bfm2.dll
+E:\Programming\c968\bfm2\bin\Debug\net9.0-windows\bfm2.pdb
+E:\Programming\c968\bfm2\obj\Debug\net9.0-windows\bfm2.dll
+E:\Programming\c968\bfm2\obj\Debug\net9.0-windows\refint\bfm2.dll
+E:\Programming\c968\bfm2\obj\Debug\net9.0-windows\bfm2.pdb
+E:\Programming\c968\bfm2\obj\Debug\net9.0-windows\bfm2.genruntimeconfig.cache
+E:\Programming\c968\bfm2\obj\Debug\net9.0-windows\ref\bfm2.dll

@@ -1,29 +1,29 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Users\\jdrma\\Documents\\c968\\bfm2\\",
+  "WorkspaceRootPath": "E:\\Programming\\c968\\bfm2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{01832D0F-9302-FF47-861D-9844353152CA}|bfm2.csproj|D:\\Users\\jdrma\\Documents\\c968\\bfm2\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{01832D0F-9302-FF47-861D-9844353152CA}|bfm2.csproj|solutionrelative:main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{01832D0F-9302-FF47-861D-9844353152CA}|bfm2.csproj|d:\\users\\jdrma\\documents\\c968\\bfm2\\classes\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{01832D0F-9302-FF47-861D-9844353152CA}|bfm2.csproj|solutionrelative:classes\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{01832D0F-9302-FF47-861D-9844353152CA}|bfm2.csproj|d:\\users\\jdrma\\documents\\c968\\bfm2\\classes\\part.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{01832D0F-9302-FF47-861D-9844353152CA}|bfm2.csproj|solutionrelative:classes\\part.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{01832D0F-9302-FF47-861D-9844353152CA}|bfm2.csproj|d:\\users\\jdrma\\documents\\c968\\bfm2\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{01832D0F-9302-FF47-861D-9844353152CA}|bfm2.csproj|e:\\programming\\c968\\bfm2\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{01832D0F-9302-FF47-861D-9844353152CA}|bfm2.csproj|solutionrelative:main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{01832D0F-9302-FF47-861D-9844353152CA}|bfm2.csproj|d:\\users\\jdrma\\documents\\c968\\bfm2\\classes\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{01832D0F-9302-FF47-861D-9844353152CA}|bfm2.csproj|e:\\programming\\c968\\bfm2\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{01832D0F-9302-FF47-861D-9844353152CA}|bfm2.csproj|solutionrelative:main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01832D0F-9302-FF47-861D-9844353152CA}|bfm2.csproj|e:\\programming\\c968\\bfm2\\classes\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01832D0F-9302-FF47-861D-9844353152CA}|bfm2.csproj|solutionrelative:classes\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01832D0F-9302-FF47-861D-9844353152CA}|bfm2.csproj|e:\\programming\\c968\\bfm2\\classes\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{01832D0F-9302-FF47-861D-9844353152CA}|bfm2.csproj|solutionrelative:classes\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{01832D0F-9302-FF47-861D-9844353152CA}|bfm2.csproj|d:\\users\\jdrma\\documents\\c968\\bfm2\\main.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{01832D0F-9302-FF47-861D-9844353152CA}|bfm2.csproj|e:\\programming\\c968\\bfm2\\classes\\part.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01832D0F-9302-FF47-861D-9844353152CA}|bfm2.csproj|solutionrelative:classes\\part.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01832D0F-9302-FF47-861D-9844353152CA}|bfm2.csproj|e:\\programming\\c968\\bfm2\\main.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{01832D0F-9302-FF47-861D-9844353152CA}|bfm2.csproj|solutionrelative:main.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -34,16 +34,16 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "Main.Designer.cs",
-              "DocumentMoniker": "D:\\Users\\jdrma\\Documents\\c968\\bfm2\\Main.Designer.cs",
+              "DocumentMoniker": "E:\\Programming\\c968\\bfm2\\Main.Designer.cs",
               "RelativeDocumentMoniker": "Main.Designer.cs",
-              "ToolTip": "D:\\Users\\jdrma\\Documents\\c968\\bfm2\\Main.Designer.cs*",
-              "RelativeToolTip": "Main.Designer.cs*",
+              "ToolTip": "E:\\Programming\\c968\\bfm2\\Main.Designer.cs",
+              "RelativeToolTip": "Main.Designer.cs",
               "ViewState": "AgIAAEIAAAAAAAAAAAAowCQAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-24T14:39:52.328Z",
@@ -52,49 +52,48 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Main.cs [Design]",
-              "DocumentMoniker": "D:\\Users\\jdrma\\Documents\\c968\\bfm2\\Main.cs",
+              "DocumentMoniker": "E:\\Programming\\c968\\bfm2\\Main.cs",
               "RelativeDocumentMoniker": "Main.cs",
-              "ToolTip": "D:\\Users\\jdrma\\Documents\\c968\\bfm2\\Main.cs [Design]*",
-              "RelativeToolTip": "Main.cs [Design]*",
+              "ToolTip": "E:\\Programming\\c968\\bfm2\\Main.cs [Design]",
+              "RelativeToolTip": "Main.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-28T05:25:01.218Z",
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Part.cs",
-              "DocumentMoniker": "D:\\Users\\jdrma\\Documents\\c968\\bfm2\\Classes\\Part.cs",
+              "DocumentMoniker": "E:\\Programming\\c968\\bfm2\\Classes\\Part.cs",
               "RelativeDocumentMoniker": "Classes\\Part.cs",
-              "ToolTip": "D:\\Users\\jdrma\\Documents\\c968\\bfm2\\Classes\\Part.cs",
+              "ToolTip": "E:\\Programming\\c968\\bfm2\\Classes\\Part.cs",
               "RelativeToolTip": "Classes\\Part.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-28T05:00:25.629Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-28T05:00:25.629Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "Inventory.cs",
-              "DocumentMoniker": "D:\\Users\\jdrma\\Documents\\c968\\bfm2\\Classes\\Inventory.cs",
+              "DocumentMoniker": "E:\\Programming\\c968\\bfm2\\Classes\\Inventory.cs",
               "RelativeDocumentMoniker": "Classes\\Inventory.cs",
-              "ToolTip": "D:\\Users\\jdrma\\Documents\\c968\\bfm2\\Classes\\Inventory.cs",
+              "ToolTip": "E:\\Programming\\c968\\bfm2\\Classes\\Inventory.cs",
               "RelativeToolTip": "Classes\\Inventory.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAkAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-27T18:58:56.378Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Product.cs",
-              "DocumentMoniker": "D:\\Users\\jdrma\\Documents\\c968\\bfm2\\Classes\\Product.cs",
+              "DocumentMoniker": "E:\\Programming\\c968\\bfm2\\Classes\\Product.cs",
               "RelativeDocumentMoniker": "Classes\\Product.cs",
-              "ToolTip": "D:\\Users\\jdrma\\Documents\\c968\\bfm2\\Classes\\Product.cs",
+              "ToolTip": "E:\\Programming\\c968\\bfm2\\Classes\\Product.cs",
               "RelativeToolTip": "Classes\\Product.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -103,13 +102,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "Main.cs",
-              "DocumentMoniker": "D:\\Users\\jdrma\\Documents\\c968\\bfm2\\Main.cs",
+              "DocumentMoniker": "E:\\Programming\\c968\\bfm2\\Main.cs",
               "RelativeDocumentMoniker": "Main.cs",
-              "ToolTip": "D:\\Users\\jdrma\\Documents\\c968\\bfm2\\Main.cs*",
-              "RelativeToolTip": "Main.cs*",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABsAAAAFAAAAAAAAAA==",
+              "ToolTip": "E:\\Programming\\c968\\bfm2\\Main.cs",
+              "RelativeToolTip": "Main.cs",
+              "ViewState": "AgIAAGsAAAAAAAAAAAAAwIsAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-24T14:54:00.539Z",
               "EditorCaption": ""

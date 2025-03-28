@@ -21,14 +21,55 @@ public partial class Main : Form
     
     private void Main_Shown(object sender, EventArgs e)
     {
+        textBox1.Text = "Enter part name or ID";
+        textBox2.Text = "Enter product name or ID";
         dataGridView1.AutoGenerateColumns = true;
         dataGridView2.AutoGenerateColumns = true;
+        dataGridView1.SelectionMode = DataGridViewSelectionMode.FullRowSelect;
+        dataGridView2.SelectionMode = DataGridViewSelectionMode.FullRowSelect;
         dataGridView1.DataSource = parts;
         dataGridView2.DataSource = products;
     }
     private void button1_Click(object sender, EventArgs e)
     {
-        // functionality to display search results
+        //// functionality to display search results for parts
+        string searchTerm = textBox1.Text;
+        void reset()
+        {
+            textBox1.Text = "Please enter a part name or ID";
+            dataGridView1.DataSource = parts;
+        }
+        ;
+        foreach (DataGridViewRow row in dataGridView1.SelectedRows)
+        {
+            row.Selected = false;
+        }
+        bool found = false;
+        foreach (DataGridViewRow row in dataGridView1.Rows)
+        {
+            if (Int32.TryParse(searchTerm, out _))
+            {
+                if(row.Cells[0].Value.ToString() == searchTerm.ToString())
+                {
+                    row.Selected = true;
+                    found = true;
+                    reset();
+                }
+                ;
+            } else
+            {
+                if (row.Cells[1].Value.ToString().ToLower() == searchTerm.ToString().ToLower())
+                {
+                    row.Selected = true;
+                    found = true;
+                    reset();
+                }
+            }
+        }
+        if (found == false)
+        {
+            MessageBox.Show("No parts found!");
+            }
     }
 
     private void textBox1_TextChanged(object sender, EventArgs e)
@@ -58,7 +99,45 @@ public partial class Main : Form
 
     private void button8_Click(object sender, EventArgs e)
     {
-        // Search for a product
+        //// functionality to display search results for products
+        string searchTerm = textBox2.Text;
+        void reset()
+        {
+            textBox2.Text = "Please enter a product name or ID";
+            dataGridView2.DataSource = products;
+        }
+        ;
+        foreach (DataGridViewRow row in dataGridView2.SelectedRows)
+        {
+            row.Selected = false;
+        }
+        bool found = false;
+        foreach (DataGridViewRow row in dataGridView2.Rows)
+        {
+            if (Int32.TryParse(searchTerm, out _))
+            {
+                if (row.Cells[0].Value.ToString() == searchTerm.ToString())
+                {
+                    row.Selected = true;
+                    found = true;
+                    reset();
+                }
+                ;
+            }
+            else
+            {
+                if (row.Cells[1].Value.ToString().ToLower() == searchTerm.ToString().ToLower())
+                {
+                    row.Selected = true;
+                    found = true;
+                    reset();
+                }
+            }
+        }
+        if (found == false)
+        {
+            MessageBox.Show("No products found!");
+        }
     }
 
     private void textBox2_TextChanged(object sender, EventArgs e)
